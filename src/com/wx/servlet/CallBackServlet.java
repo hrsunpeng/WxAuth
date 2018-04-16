@@ -15,7 +15,7 @@ import net.sf.json.JSONObject;
 @WebServlet("/WxAuth/callBack")
 public class CallBackServlet extends HttpServlet{
 
-	//微信授权登陆 回调 方法 a 
+	//微信授权登陆 回调 方法 a  
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		 //通过code换取网页授权access_token

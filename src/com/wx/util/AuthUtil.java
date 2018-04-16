@@ -14,7 +14,7 @@ import net.sf.json.JSONObject;
 public class AuthUtil {
    
 	//微信公众平台  AppID
-	public static final String APPID = "xxxxxxx";
+	public static final String APPID = "xxxxxxx"; 
 	//微信公众平台  APPSECRET
 	public static final String APPSECRET = "xxxxxxx";
 	

@@ -16,7 +16,7 @@ public class LoginServlet extends HttpServlet {
 	
 	/**
 	 * 微信公众号  调起授权登陆 
-	 */
+	 */ 
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		

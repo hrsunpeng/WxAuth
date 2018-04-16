@@ -10,7 +10,7 @@
 <body style="font-size: 40px;text-align: center;">
 	<a href="/WxAuth/wxLogin">微信公众号授权登陆</a>
 
-
+ 
 
 </body>
 </html>
